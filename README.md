@@ -1,6 +1,6 @@
 # Nyoom
 
-**Nyoom** is a simple and lightweight mod that allows you to change your movement speed in-game.
+mod doesnt work right now will probably fix later
 
 ## Usage
 - `=`: Increase speed.
