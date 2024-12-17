@@ -1,0 +1,12 @@
+{
+  "Id": "gio_exe.Nyoom",
+  "PackPath": "Nyoom.pck",
+  "dependencies": [
+    "BlueberryWolfi-BlueberryWolfiAPIs-1.0.2",
+    "NotNet-GDWeave-2.0.14"
+  ],
+  "description": "A simple and lightweight mod that allows you to customize your speed in game!",
+  "name": "Nyoom",
+  "version_number": "1.0.2",
+  "website_url": "https://github.com/gio-exe/Nyoom"
+}
